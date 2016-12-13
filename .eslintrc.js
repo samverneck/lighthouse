@@ -24,9 +24,6 @@ module.exports = {
       "argsIgnorePattern": "(^reject$|^_$)",
       "varsIgnorePattern": "(^_$)"
     }],
-    "brace-style": [2, "1tbs", {
-      "allowSingleLine": true
-    }],
     "quotes": [2, "single"],
     "require-jsdoc": 0,
     "valid-jsdoc": 0,
